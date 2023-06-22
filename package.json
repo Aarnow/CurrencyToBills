@@ -1,0 +1,15 @@
+{
+  "name": "currencytobills",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc & npx live-server & \"If you want close this server, press CTRL + C\""
+  },
+  "author": "Aarnow",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
